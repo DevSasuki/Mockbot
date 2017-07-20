@@ -1,0 +1,14 @@
+{
+  "name": "mockbot",
+  "version": "1.0.0",
+  "description": "mOcKboT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "void",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite": "^2.8.0"
+  }
+}
