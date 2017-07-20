@@ -116,4 +116,4 @@ if (message.content.startsWith(prefix + 'restart')) {
  }
 });
 
-client.login('MzM3NTQwNjM0MDYxNzAxMTMx.DFIWxA.YH-JPRtgJBGZPTp7yefMx4nE-dg');
+client.login('token');
